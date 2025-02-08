@@ -34,8 +34,6 @@ L'application utilise l'API **CryptoCompare** pour récupérer :
 
 Cette API ne nécessite **pas de clé d'API**, ce qui la rend simple d'utilisation !
 
-## 🖼️ Aperçu de l'interface
-![Screenshot de l'application](screenshot.png)
 
 ## ⚙️ Technologies utilisées
 - **Python 3** 🐍
@@ -56,5 +54,5 @@ Vous souhaitez améliorer ce projet ? Voici comment :
 5. **Créez une Pull Request** ✅
 
 ---
-🔥 **Développé avec passion pour les amateurs de crypto !** 🚀
+🔥 **Développé pour les amateurs de crypto !** 🚀
 
