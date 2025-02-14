@@ -27,6 +27,10 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
+### 4️⃣ Lancer l'application sur Streamlit !
+
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://riaaz-btc.streamlit.app/)
+
 ## 📡 API Utilisée
 L'application utilise l'API **CryptoCompare** pour récupérer :
 - 📌 Le **prix actuel** du Bitcoin : `https://min-api.cryptocompare.com/data/price`
